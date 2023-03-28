@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  *main - entry point
- *Description: printing base16
+ *Description: printing base 16
  *Return: 0 always
 */
 int main(void)
@@ -13,8 +13,8 @@ int main(void)
 
 	for (n = 0 ; n < 10 ; n++)
 		putchar(n + '0');
-	for (j = 'a'; j <= 'f' ; j++)
+	for (j = 'a' ; j <= 'f' ; j++)
 		putchar(j);
 	putchar('\n');
-	return ('0');
+	return (0);
 }
