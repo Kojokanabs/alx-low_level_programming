@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - entry point
- * Description: printing base 16
- * Return: 0 always
+ *main - entry point
+ *Description: printing base16
+ *Return: 0 always
 */
 int main(void)
 {
