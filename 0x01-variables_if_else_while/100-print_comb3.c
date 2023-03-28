@@ -20,8 +20,8 @@ int main(void)
 				putchar(j + '0');
 				if (n + j != 17)
 				{
-					putchar(' ');
 					putchar(',');
+					putchar(' ');
 				}
 			}
 	}
