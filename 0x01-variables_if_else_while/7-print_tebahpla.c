@@ -1,10 +1,9 @@
 #include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 /**
- *main - entry point
- *Description: reverse alphabets
- *Return: 0 always
+ * main - entry points
+ * Description: reverse low case
+ * Return: 0 always
 */
 int main(void)
 {
@@ -13,5 +12,5 @@ int main(void)
 	for (n = 'z' ; n >= 'a' ; n--)
 		putchar(n);
 	putchar('\n');
-	return ('0');
+	return (0);
 }
