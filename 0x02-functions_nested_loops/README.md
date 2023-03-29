@@ -1,1 +1,1 @@
-Printing of _putchar
+functions and nested loop
