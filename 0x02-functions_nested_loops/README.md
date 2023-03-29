@@ -1,0 +1,1 @@
+Printing of _putchar
