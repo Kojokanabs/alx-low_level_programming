@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *print_sign - printing of signs
+ *print_sign -function that print signs
  *
  *@n: parameters to be printed
  *
