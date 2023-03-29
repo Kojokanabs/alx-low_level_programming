@@ -4,7 +4,7 @@
  *
  *@n: parameters to be printed
  *
- *Return: 1,0,-1
+ *Return: 1, 0 and -1
 */
 
 int print_sign(int n)
