@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 /**
  *print_to_98 - printing of natural numbers
  *
